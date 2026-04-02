@@ -1,1 +1,2 @@
-DOMAIN-SUFFIX,test.startspoint.com
+payload:
+  DOMAIN-SUFFIX,test.startspoint.com
